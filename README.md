@@ -3,7 +3,7 @@
 Projeto para análise de limite de crédito de pessoas de acordo com a idade e renda.
 
 ## Principais Tecnologias
- - **Google Colab**: Utilizaremos o Googgle Colab para testes da aplicação.
+ - **Jupyter Notebook**: Utilizaremos o Jupyter Notebook para testes da aplicação.
 
 ## IMPORTANTE
 
